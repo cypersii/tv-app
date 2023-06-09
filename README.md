@@ -17,5 +17,5 @@ npm (Node Package Manager)
 > npm start
 
 #Endpoints.
-> GET Request: http://localhost:3000/api/search?q=title, Header authorization: jwt token.
+> GET Request: http://localhost:3000/api/search?q=title, Header authorization: jwt token.\
 > POST Request: http://localhost:3000/api/login ,accepts params: username and password.
