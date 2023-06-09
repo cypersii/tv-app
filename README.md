@@ -20,3 +20,4 @@ npm (Node Package Manager)
 > GET Request: http://localhost:3000/api/search?q=title, Header authorization: jwt token.\
 > ![Image Description](./sc1.png)
 > POST Request: http://localhost:3000/api/login ,accepts params: username and password.
+> ![Image Description](./sc2.png)
