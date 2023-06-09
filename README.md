@@ -18,5 +18,5 @@ npm (Node Package Manager)
 
 #Endpoints.
 > GET Request: http://localhost:3000/api/search?q=title, Header authorization: jwt token.\
-> ![Image Description!](tv-app/Screenshot 2023-06-09 154659.png)
+> ![Image Description](./sc1.png)
 > POST Request: http://localhost:3000/api/login ,accepts params: username and password.
