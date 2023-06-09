@@ -1,4 +1,4 @@
-# tv-app
+# Tv-App
 
 Getting Started
 Follow these instructions to get the application up and running on your local machine.
